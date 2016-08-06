@@ -1,0 +1,49 @@
+_repo: The-Balkans--A-History-of-Bulgaria-Serbia-Greece-Rumania-Turkey_11716
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Toynbee, Arnold
+    alias: Toynbee, Arnold Joseph
+    birthdate: 1889
+    deathdate: &id001 1975
+    gutenberg_agent_id: '3329'
+    url: http://www.gutenberg.org/2009/agents/3329
+    wikipedia: http://en.wikipedia.org/wiki/Arnold_J._Toynbee
+  - agent_name: Hogarth, D. G. (David George)
+    alias: Hogarth, David George
+    birthdate: 1862
+    deathdate: 1927
+    gutenberg_agent_id: '2480'
+    url: http://www.gutenberg.org/2009/agents/2480
+    wikipedia: http://en.wikipedia.org/wiki/D._G._Hogarth
+  - agent_name: Mitrany, David
+    alias: Mitrany, D. (David)
+    birthdate: 1888
+    deathdate: *id001
+    gutenberg_agent_id: '4603'
+    url: http://www.gutenberg.org/2009/agents/4603
+  - agent_name: Forbes, Nevill
+    birthdate: 1883
+    deathdate: 1929
+    gutenberg_agent_id: '4076'
+    url: http://www.gutenberg.org/2009/agents/4076
+description: ''
+gutenberg_bookshelf:
+- Greece
+- Children's History
+- Bulgaria
+gutenberg_issued: '2004-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11716'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Eastern question (Balkan)'
+- !lcc 'DR'
+- !lcsh 'Balkan Peninsula -- History'
+- GITenberg
+title: 'The Balkans: A History of Bulgaria—Serbia—Greece—Rumania—Turkey'
+url: http://www.gutenberg.org/ebooks/11716
