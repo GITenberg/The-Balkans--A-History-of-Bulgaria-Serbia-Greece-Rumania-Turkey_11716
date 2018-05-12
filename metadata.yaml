@@ -1,11 +1,14 @@
 _repo: The-Balkans--A-History-of-Bulgaria-Serbia-Greece-Rumania-Turkey_11716
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   authors:
   - agent_name: Toynbee, Arnold
     alias: Toynbee, Arnold Joseph
     birthdate: 1889
-    deathdate: &id001 1975
+    deathdate: 1975
     gutenberg_agent_id: '3329'
     url: http://www.gutenberg.org/2009/agents/3329
     wikipedia: http://en.wikipedia.org/wiki/Arnold_J._Toynbee
@@ -19,7 +22,7 @@ creator:
   - agent_name: Mitrany, David
     alias: Mitrany, D. (David)
     birthdate: 1888
-    deathdate: *id001
+    deathdate: 1975
     gutenberg_agent_id: '4603'
     url: http://www.gutenberg.org/2009/agents/4603
   - agent_name: Forbes, Nevill
@@ -28,6 +31,8 @@ creator:
     gutenberg_agent_id: '4076'
     url: http://www.gutenberg.org/2009/agents/4076
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/11716#The-Balkans--A-History-of-Bulgaria-Serbia-Greece-Rumania-Turkey
 gutenberg_bookshelf:
 - Greece
 - Children's History
